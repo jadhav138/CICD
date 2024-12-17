@@ -19,7 +19,7 @@ Resources:
         - Key: "Environment"
           Value: !Ref Environment
         - Key: "Test"
-          Value: "Test code to deploy"     
+          Value: "Test code to deploy in AWS"     
         
 Outputs:
   BucketName:
